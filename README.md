@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**melhemkarim/melhemkarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src = "logo.png">
 
-Here are some ideas to get you started:
+<h1>Hello, I'm Karim Melhem. Welcome to my Github<h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# About me 
+- Front End web Developer 
+- A graduated Computer science student
+- Music is passion 
+- Lebanon <3 
+
+# My Socials 
+<a href="https://www.linkedin.com/in/karim-melhem/" target = "_blank"><img src = "https://img.shields.io/badge/Linkedin-blue?style=for-the-badge"/></a>
+
+
+# Skills 
+<img src = "https://img.shields.io/badge/Reactjs-black?style=for-the-badge"/> <img src = "https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge"/> <img src = "https://img.shields.io/badge/Html-blue?style=for-the-badge"/>
+<img src = "https://img.shields.io/badge/Css-white?style=for-the-badge"/> <img src = "https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge"/> <img src = "https://img.shields.io/badge/Mysql-red?style=for-the-badge"/> <img src = "https://img.shields.io/badge/PHP-navy?style=for-the-badge"/>
