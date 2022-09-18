@@ -4,10 +4,10 @@
 <h1>Hello, I'm Karim Melhem. Welcome to my Github<h1>
 
 # About me 
-- Front End web Developer 
-- A graduated Computer science student
-- Music is passion 
-- Lebanon <3 
++ Front End web Developer 
++ A graduated Computer science student
++ Music is passion 
++ Lebanon <3 
 
 # My Socials 
 <a href="https://www.linkedin.com/in/karim-melhem/" target = "_blank"><img src = "https://img.shields.io/badge/Linkedin-blue?style=for-the-badge"/></a>
